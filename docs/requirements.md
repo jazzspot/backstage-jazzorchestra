@@ -1,3 +1,5 @@
+![ボーカル募集](https://github.com/jazzspot/bjo/blob/master/docs/img/vocal.jpg)
+
 # 概要
 #### 参加資格
 - 18 歳以上の女性
