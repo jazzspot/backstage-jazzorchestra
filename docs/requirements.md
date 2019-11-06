@@ -1,4 +1,4 @@
-![ボーカル募集](https://github.com/jazzspot/bjo/blob/master/docs/img/vocal.jpg)
+![ボーカル募集](https://user-images.githubusercontent.com/57426890/68267925-83d41f00-0097-11ea-84aa-8d8156039568.jpg)
 
 # 概要
 #### 参加資格
