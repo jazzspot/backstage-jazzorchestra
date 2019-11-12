@@ -97,3 +97,11 @@ BJOの中でも「オーディションをするなんておこがましい」�
 ### バックステージ
 - [公式サイト](http://backstage.fukuoka.jp/)
 - [福岡市中央区大名2-4-31 平子ビル1F](https://goo.gl/maps/NRp1shqEVVig7DwV9)
+
+# お問い合わせ
+```
+受付　：平田大介
+連絡先：daisuke.hirata@xxxxxx
+
+(上記 xxxxx 部分は gmail.com)
+```
